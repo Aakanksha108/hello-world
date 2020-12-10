@@ -1,2 +1,3 @@
 # hello-world
 This is a test project to understand GitHub
+I am excited to delve into Github. 
